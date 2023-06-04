@@ -78,7 +78,7 @@ function time(){
     text.innerHTML = "WWWWWWWWEEEEEEEEEAAAAAAAAAAAAAKKKKKKKKKKKKK!!!!!!"
   }
   if(elapsedTime>5000){
-    text.innerHTML = "noldu lan amina koydugum salagİ bulamadin mi tusu ha WWEAAKKK!!!";
+    text.innerHTML = "noldu lan amina koydugum salagi bulamadin mi tusu ha WWEAAKKK!!!";
   }
 
 }
